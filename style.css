@@ -295,7 +295,6 @@ section {
         background-size: 30px;
         background-repeat: no-repeat;
         background-position: center;
-        z-index:333333;
     }
     header .navigation li {
     list-style: none;
